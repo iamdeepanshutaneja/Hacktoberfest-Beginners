@@ -1,6 +1,6 @@
 //Bubble Sort
 
-//Bubble sort is one of the simplest sorting algorithms. It is a stable sort algorithm. </br>
+//Bubble sort is one of the simplest sorting algorithms. It is a stable sort algorithm.
 //The program for bubble sort is C++ is as follows :
 
 #include <iostream>
